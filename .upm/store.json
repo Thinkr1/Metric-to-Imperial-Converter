@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 {"version":2,"languages":{"nodejs-npm":{"specfileHash":"b7193edd675f0fb97b8a16efc52d4e3c","lockfileHash":"db9ba5b054f4c040b4dc349779638bf2","guessedImports":["mocha","cors","express","body-parser","chai","dotenv"],"guessedImportsHash":"ebd5497271a4dced5969e250381705e0"}}}
+=======
+<<<<<<< HEAD
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"b7193edd675f0fb97b8a16efc52d4e3c","lockfileHash":"db9ba5b054f4c040b4dc349779638bf2","guessedImports":["mocha","cors","express","body-parser","chai","dotenv"],"guessedImportsHash":"ebd5497271a4dced5969e250381705e0"}}}
+=======
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"c7d3179cc043e38d2c2a812f3de0be42","lockfileHash":"d905c55770192ec8796c460f1f94d489","guessedImports":["cors","dotenv","mocha","chai","express","body-parser"],"guessedImportsHash":"ebd5497271a4dced5969e250381705e0"}}}
+>>>>>>> eab4c0442d1486874b0f51e67eb9c8881166b65b
+>>>>>>> dfdaa7dc3b335c9182d4bb4e9c9fa0443f20cb2f
